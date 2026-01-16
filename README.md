@@ -9,4 +9,4 @@
 3. In the script executor window paste **one** of the following lines:
 
    ```lua
-   loadstring(game:HttpGet("https://raw.githubusercontent.com/tomasprison060/dolarovhub/refs/heads/main/Rake%20-%20dolarovhub.lua"))()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/tomasprison060/dolarovhub/refs/heads/main/dolarovhub.lua"))()
